@@ -1,3 +1,3 @@
 #Dipet
 ##Bienestar para tu mascota
-### http://dipet.co
+http://dipet.co
